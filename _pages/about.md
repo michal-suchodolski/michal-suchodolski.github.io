@@ -25,7 +25,7 @@ Like many other Jekyll-based GitHub Pages templates, academicpages makes you sep
         This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown! <a href="http://exampleurl.com">More information here</a>
     </p>
     <div style="flex: 0 0 auto; margin-left: 20px;">
-        <img src="/images/loansexample.jpg" alt="Description of image" style="width: 255px;">
+        <img src="/images/loansexample.jpg" alt="Description of image" style="width: 275px;">
     </div>
 </div>
 
