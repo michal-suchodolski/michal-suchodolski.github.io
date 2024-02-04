@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michael Drypit's cool website!"
+title                    : "Michael Drypit's Portolio"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
